@@ -1,2 +1,1 @@
-# ifsc-1310
-class
+some assignments may be missing
